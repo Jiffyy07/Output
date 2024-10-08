@@ -85,4 +85,5 @@ module.exports = {
 };
 ```
 ![AvgTrueRange](https://tradovate.github.io/custom-indicators/media/SignalingATR.png)
+
 _this.contractInfo_ above is an object with details about the contract of the chart. The app assigns it to the indicator during construction.
