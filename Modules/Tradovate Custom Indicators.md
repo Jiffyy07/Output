@@ -1,0 +1,18 @@
+# Tradovate Custom Indicators
+**Modules**
+- [Shifts](https://tradovate.github.io/custom-indicators/modules/shifts.html) 
+- [TimeSeries](https://tradovate.github.io/custom-indicators/modules/timeseries.html)
+- [calculator](https://tradovate.github.io/custom-indicators/modules/calculator.html)
+- [canvas](https://tradovate.github.io/custom-indicators/modules/canvas.html)
+- [dlls](https://tradovate.github.io/custom-indicators/modules/dlls.html)
+- [drawing-tool](https://tradovate.github.io/custom-indicators/modules/drawing_tool.html)
+- [graphics/DisplayObject](https://tradovate.github.io/custom-indicators/modules/graphics_displayobject.html)
+- [graphics/GraphicsResponse](https://tradovate.github.io/custom-indicators/modules/graphics_graphicsresponse.html)
+- [graphics/Scale](https://tradovate.github.io/custom-indicators/modules/graphics_scale.html)
+- [graphics/Style](https://tradovate.github.io/custom-indicators/modules/graphics_style.html)
+- [indicator](https://tradovate.github.io/custom-indicators/modules/indicator.html)
+- [params](https://tradovate.github.io/custom-indicators/modules/params.html)
+- [plots](https://tradovate.github.io/custom-indicators/modules/plots.html)
+- [plotter](https://tradovate.github.io/custom-indicators/modules/plotter.html)
+- [scaler](https://tradovate.github.io/custom-indicators/modules/scaler.html)
+- [scheme-styles](https://tradovate.github.io/custom-indicators/modules/scheme_styles.html)
